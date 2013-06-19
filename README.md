@@ -1,4 +1,4 @@
-# Chibi v1.0.8
+# chubby v1.0.8 (because I like chubby more than chibi)
 
 #### A tiny JavaScript micro-framework
 
